@@ -25,8 +25,6 @@ const NavBar = () => {
     { path: '/', label: 'Главная страница' },
     { path: '/map', label: 'Карта парковок' },
     { path: '/news', label: 'Новости' },
-    { path: '/about', label: 'О нас' },
-    { path: '/contact', label: 'Контакты' },
   ];
 
   return (
