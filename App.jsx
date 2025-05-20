@@ -5,8 +5,8 @@ import Layout from "./Pages/Сommon/Layout";
 import Main from "./Pages/Main/Main";
 import Map from "./Pages/Map/Map";
 import News from "./Pages/News/News";
-import About from "./Pages/About/About";
-import Contact from "./Pages/Contact/Contact";
+
+
 import NotFound from "./Pages/NotFound/NotFound";
 import { MyProvider } from "./context";
 
